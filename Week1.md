@@ -20,7 +20,7 @@ DevOps is a methododlogy that uses certain practices and tools in order to creat
 
 DevOps culture is a collaborative, communicative, and automated approach that brings together software development and IT operations to create a shared responsibility for the quality and reliability of software delivery. It emphasizes continuous improvement and a focus on delivering software that is reliable, scalable, and secure, with a strong emphasis on automation and feedback loops.
 
-# lets take a quick overview of different models software development lifecycle?
+# What are some different models of software development lifecycle?
 
 Software Development Life Cycle (SDLC) models are frameworks that provide a structured approach to software development. These models outline the various stages and activities involved in the development process and provide a roadmap for the development team to follow.
 
