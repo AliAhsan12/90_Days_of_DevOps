@@ -1,7 +1,7 @@
 # What is Extreme Programming Framework?
 
 Extreme Programming (XP) is an Agile software development framework that emphasizes a customer-centric and collaborative approach for building software. It is based on principles such as continuous feedback, testing, and planning, with a focus on delivering high-quality software that meets customer needs. XP also emphasizes teamwork, simplicity, and adaptability, with an emphasis on creating an environment that supports effective communication and collaboration among team members. The framework is often used in Agile software development methodologies, with XP practices such as pair programming, test-driven development, and continuous integration being widely adopted by software development teams.
-![benefits-pair-programming](https://user-images.githubusercontent.com/125795058/227455157-cbb8dbd9-7780-4a8d-b679-9c52e71f3a41.png)
+
 
 # Lets understand Pair Programming and its benifits
 
