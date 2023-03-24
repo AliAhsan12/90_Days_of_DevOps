@@ -7,7 +7,7 @@ Extreme Programming (XP) is an Agile software development framework that emphasi
 
 Pair programming is a software development practice where two developers work together on the same codebase, sharing a single workstation. In pair programming, one person takes on the role of the "driver," who writes the code, while the other person takes on the role of the "navigator," who reviews the code and provides feedback and guidance.
 
-<img src="https://user-images.githubusercontent.com/125795058/227455157-cbb8dbd9-7780-4a8d-b679-9c52e71f3a41.png" width=300 />
+<img src="https://user-images.githubusercontent.com/125795058/227455157-cbb8dbd9-7780-4a8d-b679-9c52e71f3a41.png" width=350 />
 
 The benefits of pair programming include:
 
