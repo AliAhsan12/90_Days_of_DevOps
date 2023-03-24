@@ -96,7 +96,7 @@ BDD emphasizes the importance of collaboration between stakeholders, developers,
 
 ## Difference between Test-Driven Development (TDD) and Behaviour-Driven Development (BDD)
 
-est-Driven Development (TDD) and Behavior-Driven Development (BDD) are both software development methodologies that emphasize automated testing. The main differences between the two are:
+Test-Driven Development (TDD) and Behavior-Driven Development (BDD) are both software development methodologies that emphasize automated testing. The main differences between the two are:
 
 1) Focus on language and audience: TDD focuses on the developer audience and uses technical language, while BDD focuses on the entire project team, including non-technical stakeholders, and uses a more natural language that is easier to understand.
 
