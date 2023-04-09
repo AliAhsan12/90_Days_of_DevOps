@@ -36,3 +36,20 @@ Continuous Integration (CI) is a software development practice that involves int
 Continuous Delivery is a software development practice that focuses on automating the software release process to enable faster and more reliable software releases, by automatically deploying code changes that pass automated tests to the production environment.
 
 
+#  What is the Difference Between DevOps and Site Reliability Engineering?
+
+<img src=https://user-images.githubusercontent.com/125795058/230749460-e814a440-0e5d-4729-8fc7-d7ce87051de5.png/>
+
+DevOps and Site Reliability Engineering (SRE) are two related but distinct approaches to software development and operations. While both approaches aim to improve the efficiency and reliability of software systems, they differ in their focus, scope, and methodology.
+
+DevOps is an approach to software development and delivery that emphasizes collaboration and integration between software developers and IT operations teams. The goal of DevOps is to accelerate the delivery of software by automating the software development pipeline, improving the quality of software, and reducing the time to deploy new features and fixes. DevOps is typically focused on the entire software development lifecycle, from planning and coding to testing, deployment, and monitoring.
+
+Site Reliability Engineering (SRE) is a set of practices and principles for managing and maintaining large-scale, complex software systems. SRE is a specialization of the broader DevOps movement, with a specific focus on reliability and uptime. SRE teams work to ensure that software systems are always available and performant, by implementing automation, monitoring, and incident response processes. SRE teams are responsible for monitoring the health and performance of systems, identifying and mitigating failures and downtime, and continuously improving the reliability of systems over time.
+
+In summary, while DevOps is focused on the entire software development lifecycle, SRE is a specialized approach that focuses on the reliability and uptime of software systems. DevOps is more about collaboration and integration between teams, while SRE is more about automation and monitoring of systems to ensure reliability.
+
+
+
+
+
+
