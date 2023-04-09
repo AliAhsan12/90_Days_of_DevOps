@@ -37,9 +37,8 @@ Continuous Delivery is a software development practice that focuses on automatin
 
 
 #  What is the Difference Between DevOps and Site Reliability Engineering?
-![Turing-BlogHeader8-min](https://user-images.githubusercontent.com/125795058/230749496-a9458503-57ae-417b-bf4a-383a6dd8dbb8.png)
 
-<img src=https://user-images.githubusercontent.com/125795058/230749460-e814a440-0e5d-4729-8fc7-d7ce87051de5.png />
+<img src=https://user-images.githubusercontent.com/125795058/230749460-e814a440-0e5d-4729-8fc7-d7ce87051de5.png width=400 height=500 />
 
 DevOps and Site Reliability Engineering (SRE) are two related but distinct approaches to software development and operations. While both approaches aim to improve the efficiency and reliability of software systems, they differ in their focus, scope, and methodology.
 
