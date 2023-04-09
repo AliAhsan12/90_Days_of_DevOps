@@ -37,6 +37,7 @@ Continuous Delivery is a software development practice that focuses on automatin
 
 
 #  What is the Difference Between DevOps and Site Reliability Engineering?
+![Turing-BlogHeader8-min](https://user-images.githubusercontent.com/125795058/230749496-a9458503-57ae-417b-bf4a-383a6dd8dbb8.png)
 
 <img src=https://user-images.githubusercontent.com/125795058/230749460-e814a440-0e5d-4729-8fc7-d7ce87051de5.png/>
 
