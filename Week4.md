@@ -78,11 +78,14 @@ Overall, cloud storage provides customers with a variety of options for storing 
 
 # What is multi-cloud, hybrid multi-cloud, and serverless?
 
-### Multi-cloud: Multi-cloud refers to the use of multiple cloud computing platforms, such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), to meet an organization's computing needs. Multi-cloud allows organizations to avoid vendor lock-in and choose the best cloud services for each workload.
+### Multi-cloud: 
+Multi-cloud refers to the use of multiple cloud computing platforms, such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), to meet an organization's computing needs. Multi-cloud allows organizations to avoid vendor lock-in and choose the best cloud services for each workload.
 
-### Hybrid Multi-Cloud: Hybrid multi-cloud refers to the use of a combination of public, private, and on-premises cloud services from different cloud providers. Hybrid multi-cloud combines the benefits of public and private cloud, allowing organizations to run critical workloads on-premises, while leveraging the scalability and flexibility of public cloud for less critical workloads.
+### Hybrid Multi-Cloud: 
+Hybrid multi-cloud refers to the use of a combination of public, private, and on-premises cloud services from different cloud providers. Hybrid multi-cloud combines the benefits of public and private cloud, allowing organizations to run critical workloads on-premises, while leveraging the scalability and flexibility of public cloud for less critical workloads.
 
-### Serverless: Serverless computing is a cloud computing model that allows developers to build and run applications without the need to manage servers or infrastructure. In serverless computing, the cloud provider manages the infrastructure and automatically scales the computing resources based on the demand. Serverless computing enables faster development and deployment of applications, reduces infrastructure costs, and improves scalability.
+### Serverless: 
+Serverless computing is a cloud computing model that allows developers to build and run applications without the need to manage servers or infrastructure. In serverless computing, the cloud provider manages the infrastructure and automatically scales the computing resources based on the demand. Serverless computing enables faster development and deployment of applications, reduces infrastructure costs, and improves scalability.
 
 In summary, multi-cloud refers to the use of multiple cloud providers, hybrid multi-cloud combines public, private, and on-premises cloud services, while serverless computing allows developers to build and run applications without managing servers or infrastructure. Each of these cloud computing models offers unique benefits and can be used to meet specific business needs.
 
